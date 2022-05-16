@@ -2,3 +2,12 @@
 
 # Identity Provider
 _Service that manages your connection credentials_
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
